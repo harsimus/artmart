@@ -10,7 +10,7 @@
   <body>
     <div class="header">
       <div class="title">
-        <h1><a href="/xampp/breaddit/">Art Mart</a></h1>
+        <h1><a href="/artmart/">Welcome to Art Mart</a></h1>
       </div>
       <p><i></i></p>
       <div class="login">
